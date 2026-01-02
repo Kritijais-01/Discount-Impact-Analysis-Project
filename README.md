@@ -100,8 +100,11 @@ Download the Power BI file
 Open it in Power BI Desktop
 Use filters (Region, Category, Year, Month) to explore insights
 
-Snapshot of the dashboard
+Snapshot of the dashboard:
+1- Discount Impact Analysis
 <img width="1669" height="718" alt="snapshot-dashboard-discount-analysis" src="https://github.com/user-attachments/assets/16f7dcc2-0c98-49e2-906e-a6fd2ddf719a" />
+
+2- Category and Margin Analysis
 <img width="1668" height="720" alt="snapshot-dashboard-categoryand monthly-analysis" src="https://github.com/user-attachments/assets/31857081-21c6-4445-b9bf-719d49375ed6" />
 
 

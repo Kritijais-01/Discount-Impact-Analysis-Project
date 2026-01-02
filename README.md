@@ -99,3 +99,7 @@ I enjoy working with data to identify insights related to sales, profit, margin,
 Download the Power BI file
 Open it in Power BI Desktop
 Use filters (Region, Category, Year, Month) to explore insights
+
+Snapshot of the dashboard
+<img width="1669" height="718" alt="snapshot-dashboard-discount-analysis" src="https://github.com/user-attachments/assets/16f7dcc2-0c98-49e2-906e-a6fd2ddf719a" />
+

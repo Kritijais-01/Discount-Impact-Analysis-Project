@@ -31,10 +31,10 @@ The dataset reflects real-world retail business scenarios.
 
 📐 Key Metrics Used
 
-Total Revenue
-Total Profit
-Profit Margin %
-Discount %
+Total Revenue,
+Total Profit,
+Profit Margin %,
+Discount %,
 Order Count
 
 These metrics help analyze both growth and profitability.

@@ -102,4 +102,5 @@ Use filters (Region, Category, Year, Month) to explore insights
 
 Snapshot of the dashboard
 <img width="1669" height="718" alt="snapshot-dashboard-discount-analysis" src="https://github.com/user-attachments/assets/16f7dcc2-0c98-49e2-906e-a6fd2ddf719a" />
+https://1drv.ms/i/c/a45c4c9b417cbd55/IQDTUXIYNVg_SZ1DAAEQih24ARpou19rTnw-_vbIwIREz4A?e=FgIeVv
 
